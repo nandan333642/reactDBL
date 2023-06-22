@@ -1,0 +1,134 @@
+.bt_about{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;  
+}
+
+.bt_about-images{
+    display: flex;
+    padding: 0 4px;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.bt_about-images-col1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;    
+    gap: 10px;
+}
+
+.bt_about-images-col1:nth-child(3) img{
+    width: 230px;
+    height: 310px;
+}
+
+.bt_about-images-col1:nth-child(even) img:nth-child(2){
+    height: 170px;
+    width: 130px;
+}
+
+.bt_about-images img{
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;;
+}
+
+.bt_about-sec2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    color: var(--color-white);
+    font-family: var(--font-family);
+}
+
+.bt_about-sec2-video{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.bt_about-quote h2{
+    width: 600px;
+    font-size: 35px;
+}
+.bt_about-quote p{
+    align-self: bottom;
+}
+
+
+.bt_about-quote{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background: var(--color-background)
+}   
+
+.bt_about-satisfactions{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.bt_about-satisfactions h2{
+    margin: 0;
+    text-align: center;
+}
+
+.vertbar{
+    width: 1px;
+    height: 40px;
+    border-radius: 5px;
+    background: var(--color-circle);
+}
+
+@media screen and (max-width: 880px) {
+    .bt_about-images {
+        display: none;
+    }
+
+    .bt_about-satisfactions {
+        flex-wrap: wrap;
+    }
+}
+
+
+@media screen and (max-width: 734px) {
+    .bt_about-satisfactions{
+        display: none;
+    }
+    .bt_about-quote {
+        text-align: center;
+        width: 300px;
+        margin: auto;
+        flex-direction: column;
+    }
+
+    .bt_about-quote h2{
+        width: 320px;
+        font-size: 25px;
+    }
+}
+
+
+::-webkit-scrollbar {
+    width: 2px; /* Width of the scrollbar */
+  }
+  
+::-webkit-scrollbar-track {
+    background-color: transparent; /* Background color of the scrollbar track */
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--color-highlight);
+}

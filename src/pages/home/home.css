@@ -1,0 +1,38 @@
+.App {
+    margin: 0; 
+    width: 100%; 
+  }
+  
+  .bt_home{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 60px;
+    flex-direction: column;
+    height: fit-content;
+  }
+  
+  body{
+    margin: 0;
+    background: var(--color-background);
+  }
+  
+  .bt_home_container_back{
+    position: relative;
+    background: hsla(257, 21%, 6%, 1);
+    overflow: hidden;
+    background: linear-gradient(0deg, hsla(257, 21%, 6%, 1) 15%, hsla(214, 15%, 9%, 1) 60%);
+  
+  }
+  
+  .bt_home_container_back-rightball{
+    width: 300px;
+    height: 300px;
+    background: var(--color-circle);
+    border-radius: 30%;
+    box-shadow: 0 0 140px var(--color-circle), 0 200px 100px #9d3364;
+    position: absolute;
+    right: 0;
+    bottom: 20%;
+    transform: translateX(100%);
+  }

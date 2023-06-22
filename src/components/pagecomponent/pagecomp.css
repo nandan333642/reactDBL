@@ -1,0 +1,30 @@
+.bt_pagecomponent{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    font-family: var(--font-family);
+    color: var(--color-white);
+    gap: 2rem;
+    background: #472323e1;
+    background-image: url('../../assets/DSC_0332.JPG');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+
+}
+
+.bt_pagecomponent-texts{
+    padding: 70px;
+    text-align: center;
+}
+.bt_pagecomponent-texts p{
+    font-size: 15px;
+}
+
+.bt_pagecomponent-texts h2{
+    font-size: 50px;
+    margin:0;
+}

@@ -1,0 +1,27 @@
+.bt_dbimageevent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 40px;
+    flex-direction: column;
+    background: var(--color-gallery);
+    width: 300px;
+    font-family: var(--font-family);
+    border-radius: 10px;
+    gap: 20px;
+    height: 500px;
+}
+
+.bt_dbimageevent img{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+}
+
+
+
+.bt_dbimageevent:hover{
+    cursor: pointer;
+    border: 1px solid var(--color-circle);
+}

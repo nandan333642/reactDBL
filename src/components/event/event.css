@@ -1,0 +1,48 @@
+.bt_event{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    gap: 40px;
+    font-family: var(--font-family);
+}
+
+.bt_event-image img{
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.bt_event-date{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.bt_event-date h2{
+    margin: 0;
+    font-size: 30px;
+}
+
+.bt_event-text h2{
+    margin: 0
+}
+
+
+@media screen and (max-width: 745px) {
+    .bt_event{
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        width: 280px;
+        background: var(--color-cover);
+        padding: 20px;
+    }
+
+    .bt_event-date{
+        flex-direction: row;
+        gap: 20px;
+    }
+}
