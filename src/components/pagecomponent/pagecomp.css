@@ -17,7 +17,8 @@
 }
 
 .bt_pagecomponent-texts{
-    padding: 70px;
+    margin-top: 3rem;;
+    padding: 15px;
     text-align: center;
 }
 .bt_pagecomponent-texts p{
@@ -25,6 +26,6 @@
 }
 
 .bt_pagecomponent-texts h2{
-    font-size: 50px;
+    font-size: 35px;
     margin:0;
 }

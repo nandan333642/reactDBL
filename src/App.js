@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
-import {Home, Events, About, Service, Gallery} from './pages'
+import {Home, Events, About, Service, Gallery, Teams} from './pages'
 import { DBEvent } from './components'
 
 const App = () => {
@@ -14,6 +14,7 @@ const App = () => {
         <Route path="/contacts" element={<Service />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/events/:eventName" element={<DBEvent/>} />
+        <Route path="/teams" element={<Teams/>} />
       </Routes>
     </BrowserRouter>
   )

@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { Navbar, Footer } from '../../components';
+import { Navbar, Footer, PageComponent } from '../../components';
 import './maingallery.css';
-
+import flexvid2 from '../../assets/flexvid2.mp4';
+import ReactPlayer from 'react-player';
 const MainGallery = () => {
   const [galleryImages, setGalleryImages] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -38,7 +39,10 @@ const MainGallery = () => {
 
   return (
     <div className="bt_maingallery">
-      <Navbar />
+      <PageComponent breadcrumb="Home/Gallery" name="Gallery" />
+      <div className="bt_maingallery-video">
+        <ReactPlayer url={flexvid2} controls={true} width="90%"/>
+      </div>
       <div className="bt_maingallery-pic">
         {galleryImages.map((image, index) => (
           <img key={index} src={image} alt={`image-${index}`}  srcSet={`${image} 320w`} />

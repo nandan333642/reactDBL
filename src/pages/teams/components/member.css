@@ -1,0 +1,53 @@
+.bt_teammember{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    padding: 30px;
+    flex-direction: column;
+    font-family: var(--font-family);
+    background: var(--color-tiles);
+    border-radius: 10px;
+    gap: 20px;
+    background: var(--color-gallery);
+}
+
+.bt_teammember-image img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px var(--color-gallery);
+}
+
+.bt_teammember-namepos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--color-white);
+    text-align: center;
+}
+
+.bt_teammember-links-icon{
+    width: 20px;
+    height:20px;
+}
+
+.bt_teammember-namepos h2{
+    margin: 0; 
+    font-size: 20px;
+}
+.bt_teammember-namepos p{
+    font-size: 14px;
+    border: 0.5px solid #212121;
+    padding: 5px;
+    border-radius: 25%;
+}
+
+.bt_teammember-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    flex-direction: row;
+}
+

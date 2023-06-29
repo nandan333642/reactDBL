@@ -23,7 +23,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 60px;
+    gap: 70px;
 }
 
 .bt_navbar-menu-resp{
@@ -51,7 +51,7 @@
 
 
 
-@media screen and (max-width:812px) {
+@media screen and (max-width:940px) {
     .bt_navbar-menu-list{
         display: none;
     }
@@ -81,7 +81,6 @@
     .bt_navbar_set-hammenu{
         position: relative;
         z-index: 10;
-        
     }
 
     .hammenu-links-ul{
