@@ -6,7 +6,7 @@ const DonboscoAbout = () => {
     <div className="bt_donboscoabout">
         <img src={school}/>
         <div className="bt_donboscoabout-donboscoschool">
-            <h2>Donbosco School Liluah</h2>
+            <h2>Don Bosco School Liluah</h2>
             <p>Don Bosco School, Liluah, is a renowned educational institution located in Liluah, West Bengal, India. Founded in 1937, the school follows the educational philosophy of its patron saint, St. John Bosco, popularly known as Don Bosco. With a rich history of providing quality education, the school has earned a stellar reputation for its commitment to holistic development and academic excellence.
 <br/><br/>
 The primary aim of Don Bosco School, Liluah, is to create an environment where students can grow intellectually, emotionally, socially, and spiritually. The school strives to instill in its students the values of integrity, compassion, and respect for all. It aims to develop well-rounded individuals who are equipped with the skills and knowledge necessary to face the challenges of the modern world.

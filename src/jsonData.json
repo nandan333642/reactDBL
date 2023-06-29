@@ -3,6 +3,7 @@
     {
         "name": "BOSCO BOOGIE THRILL",
         "type": "Western Dance",
+        "logo": "/3-5/boogie thrill.webp",
         "participants": "6+4",
         "classes": "3 to 5",
         "time": "3+1 minutes",
@@ -24,6 +25,7 @@
     {
         "name": "BOSCO MADOL TALE",
         "type": "Folk Dance",
+        "logo": "/3-5/madol dole.webp",
         "participants": "8+4",
         "classes": "3 to 5",
         "time": "3+1 min",
@@ -45,6 +47,7 @@
     {
         "name": "Bosco Ink your Thoughts",
         "type": "English Creative Writing",
+        "logo": "/3-5/BOSCO INK YOUR THOUGHTS.webp",
         "participants": "2",
         "classes": "4,5",
         "time": "1hr",
@@ -63,6 +66,7 @@
         "name": "Bosco Ad Lib",
         "type": "Extempore English",
         "participants": "2 (1 from each class)",
+        "logo": "/3-5/BOSCO AD LIB.webp",
         "classes": "4,5",
         "time": "1hr",
         "rules and Regulations": [
@@ -81,6 +85,7 @@
     {
         "name": "Bosco Poesy",
         "type": "English Recitation",
+        "logo": "/3-5/BOSCO POESY.webp",
         "participants": "2 (only two best participants will be selected from all the three classes)",
         "classes": "3-5",
         "time": "2 + 1 mins",
@@ -101,6 +106,7 @@
       "name": "Bosco Earthen",
       "type": "Clay Modelling",
       "participants": "3 (1 from each class)",
+      "logo": "/3-5/Earthen.webp",
       "classes": "3-5",
       "time": "75 minutes (Including cleaning of the work area)",
       "rules and Regulations": [
@@ -121,6 +127,7 @@
     {
         "name": "Bosco Page Tracer",
         "type": "Bookmark Making",
+        "logo": "/3-5/page tracer.webp",
         "participants": "2 (1 from each class)",
         "classes": "4 and 5",
         "time": "1 Hr",
@@ -140,6 +147,7 @@
     {
         "name": "Bosco Art Factor",
         "type": "Drawing",
+        "logo": "/3-5/art.webp",
         "participants": "3 (1 from each class)",
         "classes": "3-5",
         "time": "1 Hour 30 minutes",
@@ -157,6 +165,7 @@
     {
         "name": "Bosco Colourado (T-Shirt painting)",
         "type": "T-shirt Painting",
+        "logo": "/3-5/colourado.webp",
         "participants": "2 (1 from each class)",
         "classes": "4 and 5",
         "time": "1 Hour 30 minutes",
@@ -173,6 +182,7 @@
     {
         "name": "BOSCO KAVITT",
         "type": "Hindi Recitation",
+        "logo": "/3-5/kavitt.webp",
         "participants": "2 (only two best participants will be selected from all the three classes)",
         "classes": "3-5",
         "time": "3 minutes",
@@ -191,6 +201,7 @@
     {
       "name": "BOSCO LEKHANI",
       "type": "Hindi Handwriting",
+      "logo": "/3-5/lekhani.webp",
       "participants": "2",
       "class": "3",
       "time": "30 minutes",
@@ -207,6 +218,7 @@
     {
       "name": "BOSCO VAKTRITA",
       "type": "Hindi Declamation",
+      "logo": "/3-5/vak.webp",
       "participants": "2 (1 from each class)",
       "classes": "4-5",
       "time": "3-5 minutes",
@@ -230,6 +242,7 @@
     {
       "name": "Bosco Quiz-O-Mania",
       "type": "Quiz",
+      "logo": "/3-5/quizomania.webp",
       "participants": "4 (As a team)",
       "classes": "4 and 5",
       "time": "1 hr",
@@ -244,8 +257,9 @@
       "contactNo": "9830366946"
     },
     {
-      "name": "Bosco refurbish",
+      "name": "Bosco Refurbish",
       "type": "Best Out Of Waste",
+      "logo": "/6-8/refr.webp",
       "participants": "4 (As a team)",
       "classes": "4 and 5",
       "time": "60 +2 minutes (including clean up)",
@@ -264,6 +278,7 @@
     },
     {
       "name": "SHOW DAY (Continuation Of Bosco Refurbish)",
+      "logo": "/6-8/refr.webp",
       "details": [
         "All models have to walk with their designers on the ramp showcasing their outfits.",
         "The designer will speak about the outfit worn by the model along with the story behind it in 2 minutes.",
@@ -274,6 +289,7 @@
     },
     {
       "name": "BOSCO UPOSTHAPON",
+      "logo": "/3-5/BOSCO UPOSTHOPON.webp",
       "type": "Bengali Extempore",
       "participants": "2 (only two best participants will be selected from all the three classes)",
       "classes": "3-5",
@@ -290,6 +306,7 @@
     },
     {
       "name": "BOSCO CHONDO-BONDHON",
+      "logo": "/3-5/chondo bondhon.webp",
       "type": "Bengali Elocution",
       "participants": "2 (only two best participants will be selected from all the three classes)",
       "classes": "3-5",
@@ -306,6 +323,7 @@
     },
     {
       "name": "BOSCO SRIJON",
+      "logo": "/3-5/BOSCO SRIJAN.webp",
       "type": "Bengali Creative Writing",
       "participants": "2 (only two best participants will be selected from all the three classes)",
       "classes": "3-5",
@@ -329,6 +347,7 @@
     {
       "name": "Bosco Voice",
       "type": "Solo Singing",
+      "logo": "/3-5/voice.webp",
       "participants": "3 (1 from each class)",
       "classes": "3-5",
       "time": "2 minutes",
@@ -343,6 +362,7 @@
     },
     {
       "name": "Bosco Euphony",
+      "logo": "/3-5/euphony.webp",
       "type": "Solo Instrumental",
       "participants": "3 (1 from each class)",
       "classes": "3-5",
@@ -358,6 +378,7 @@
     },
     {
       "name": "BOSCO REMEDAR",
+      "logo": "/3-5/Remedar.webp",
       "type": "Solo English Story Enactment Competition",
       "participants": "2 (1 FROM CLASS 4 AND 1 FROM CLASS 5)",
       "time": "2 minutes",
@@ -372,6 +393,7 @@
     {
       "name": "Bosco Artzilla",
       "type": "Paper Craft (Ocean Origami)",
+      "logo": "/3-5/artzilla.webp",
       "participants": "2 (one from class 3 and one from class 4)",
       "classes": "3 & 4",
       "time": "45 minutes",
@@ -390,6 +412,7 @@
     {
       "name": "Bosco Melange",
       "type": "Collage Making (Campus Mosaic -- Creating a collage about your school building)",
+      "logo": "/3-5/melange.webp",
       "participants": "2 (only two best participants will be selected from all the three classes)",
       "classes": "4 & 5",
       "time": "50 minutes",
@@ -408,6 +431,7 @@
     {
       "name": "Bosco Checkmate",
       "type": "Chess",
+      "logo": "/3-5/Checkmate.webp",
       "class": "5",
       "participants": 2,
       "time": "30 minutes",
@@ -423,6 +447,7 @@
     },
     {
       "name": "Bosco Yummy",
+      "logo": "/3-5/yummy.webp",
       "type": "Non-fire cooking",
       "classes": "4 & 5",
       "participants": 2,
@@ -448,6 +473,7 @@
     {
       "name": "BOSCO KAVITAN",
       "event": "Poetry Recitation (Hindi) with original music",
+      "logo": "/6-8/kavitan.webp",
       "club": "LITERARY",
       "classes": "6-8",
       "participants": "1 team per school comprising maximum 2 members",
@@ -474,6 +500,7 @@
     {
       "name": "BOSCO THEATRICS",
       "event": "Roleplay, Mimicry",
+      "logo": "/6-8/theatrics.webp",
       "club": "LITERARY",
       "participants": "1",
       "classes": "6 to 8",
@@ -494,6 +521,7 @@
       "name": "BOSCO AMARO PORANO JAHA CHAY",
       "event": "Poetry Recitation with Original Music (Bengali)",
       "club": "DRAMATIC",
+      "logo": "/6-8/amaro.webp",
       "classes": "Class 6-8",
       "participants": "2",
       "time": "3+1 minutes",
@@ -513,6 +541,7 @@
     {
       "name": "BOSCO SAND IN HAND",
       "event": "Sand Art",
+      "logo": "/6-8/sand.webp",
       "club": "MUSIC",
       "classes": "6 – 8",
       "participants": "1",
@@ -529,6 +558,7 @@
     {
       "name": "BOSCO FACE ON IT!",
       "event": "Face Painting",
+      "logo": "/6-8/face.webp",
       "club": "LTS",
       "classes": "6-8",
       "participants": "2",
@@ -547,6 +577,7 @@
     {
       "name": "BOSCO HASTANKAN",
       "event": "Hand Painting",
+      "logo": "/6-8/hast.webp",
       "club": "LTS",
       "classes": "6-8",
       "participants": "2",
@@ -564,6 +595,7 @@
     {
       "name": "BOSCO CUBICAL",
       "event": "Cube Competition",
+      "logo": "/6-8/cubical.webp",
       "club": "SCOUTS",
       "classes": "6-8",
       "participants": "1",
@@ -583,6 +615,7 @@
     },
     {
       "name": "BOSCO BIBLIOS",
+      "logo": "/6-8/biblios.webp",
       "theme": "The Lord is my shepherd; there is nothing I shall want",
       "club": "FRIENDS YOUTH GROUP",
       "classes": "6 to 8",
@@ -598,8 +631,9 @@
       "contactNumber": "9831226950"
     },
     {
-      "name": "BOSCO FINGER BILLIARDS",
+      "name": "BOSCO FINGER BILLIARDS(6-8)",
       "event": "Carrom",
+      "logo": "/6-8/BOSCO FINGER BILLIARDS.webp",
       "club": "SCOUTS",
       "classes": "6 - 8",
       "participants": "2 (as a team)",
@@ -617,6 +651,7 @@
     {
       "name": "BOSCO UNMASKED CREATIVITY",
       "event": "Mask Making",
+      "logo": "/6-8/unmask.webp",
       "club": "DRAMATIC",
       "classes": "Class 6-8",
       "participants": "1",
@@ -633,6 +668,7 @@
     },
     {
       "name": "BOSCO SAAZ",
+      "logo": "/6-8/saaz.webp",
       "event": "Solo Instrumental",
       "club": "MUSIC",
       "classes": "6-8",
@@ -653,6 +689,7 @@
     },
     {
       "name": "BOSCO RHYME ‘N’ RHYTHM RHAPSODY",
+      "logo": "/6-8/rhyme.webp",
       "event": "Poetry Recitation with original music (English)",
       "club": "DEBATE",
       "classes": "6–8",
@@ -672,6 +709,7 @@
     {
       "name": "BOSCO RHETORIC RUMBLE",
       "event": "Debate",
+      "logo": "/6-8/kavitan.webp",
       "club": "DEBATE",
       "classes": "6–8",
       "participants": "A team of two students per school (one speaking FOR the motion and the other speaking AGAINST the motion)",
@@ -692,6 +730,7 @@
       "name": "BOSCO THINK’WELL INK’WELL",
       "event": "Creative Writing Competition",
       "club": "DEBATE",
+      "logo": "/6-8/think ink.webp",
       "classes": "6–8",
       "participants": "A team of two students per school",
       "time": "1 hr",
@@ -709,6 +748,7 @@
     {
       "name": "BOSCO CERFIO",
       "event": "Vegetable Carving",
+      "logo": "/6-8/cerfio.webp",
       "club": "NATURE",
       "classes": "6–8",
       "participants": "2 (as a team)",
@@ -725,6 +765,7 @@
     {
       "name": "BOSCO FLORA",
       "event": "Flower Arrangement",
+      "logo": "/6-8/flora.webp",
       "club": "NATURE",
       "classes": "6–8",
       "participants": "2 (as a team)",
@@ -741,6 +782,7 @@
     {
       "name": "BOSCO MASTER CHEF",
       "event": "Non Fire Cooking",
+      "logo": "/6-8/chef.webp",
       "club": "SCIENCE",
       "classes": "6–8",
       "participants": "2 (as a team)",
@@ -760,6 +802,7 @@
     {
       "name": "BOSCO COMPUTARE CODEX",
       "event": "Coding",
+      "logo": "/6-8/codex.webp",
       "club": "SCIENCE",
       "classes": "6–8",
       "participants": "2",
@@ -782,10 +825,11 @@
       "contactNumber": "8981250126"
     },
     {
-      "name": "BOSCO QUIZOTOPIA",
+      "name": "BOSCO QUIZOTOPIA (6-8)",
       "event": "Quiz",
       "club": "QUIZ",
       "classes": "6–8",
+      "logo": "/6-8/quiz.webp",
       "participants": "4",
       "rules": [
         "Prelims: Participants shall be asked 10 general awareness questions, each carrying 1 mark. The top 6 scoring teams shall qualify for the next round.",
@@ -803,6 +847,7 @@
       "name": "BOSCO GRAFFITI",
       "event_type": "Poster Making (Travelling – the best mode of education)",
       "club": "Friends Youth Group",
+      "logo": "/6-8/graf.webp",
       "classes": "6-8",
       "participants": 2,
       "time": "1 hr",
@@ -822,6 +867,7 @@
     {
       "name": "BOSCO OFF THE CUFF",
       "event_type": "Extempore",
+      "logo": "/6-8/cuff.webp",
       "club": "Media and Culture",
       "classes": "6-8",
       "participants": 1,
@@ -848,26 +894,11 @@
       "teacher_in_charge": "SIR DEBANJAN CHATTERJEE / MA’AM MARY MARGARET SHAW",
       "contact_no": "9830330677 / 9830342862"
     },
-    {
-      "name": "BOSCO LAY-UP SHOW",
-      "event_type": "Basketball",
-      "club": "NCC",
-      "classes": "9-12 (Boys)",
-      "participants": "5+5(Reserve)",
-      "time": "20 Minutes",
-      "rules": [
-        "Two halves of 10 minutes each with a break of 2 minutes in between.",
-        "Each team should have their school team jersey.",
-        "All others rules of the FIBA will be followed.",
-        "The referee’s decisions will be final.",
-        "Fixture will be given on the day of the event."
-      ],
-      "teacher_in_charge": "SIR ARUP KUNDU",
-      "contact_no": "9749197171"
-    },
+
     {
       "name": "BOSCO SPIKE SHOW DOWN",
       "event_type": "Volleyball",
+      "logo": "/9-12/BOSCO SPIKE SHOWDOWN.webp",
       "club": "NCC",
       "classes": "9 – 12 (Boys)",
       "participants": "6 + 3(Reserve)",
@@ -886,71 +917,9 @@
       "contact_no": "9749197171"
     },
     {
-      "name": "Bosco Showdown at Dojo",
-      "event_type": "Martial Arts",
-      "club": "LTS",
-      "classes": "9-12",
-      "time": "2 minutes per round",
-      "participants": {
-        "Kata": "Maximum 2 In Kata (Boys and Girls)",
-        "Kumite": "Maximum 2 In Kumite in Each Weight Category (Boys)"
-      },
-      "note": "One person can participate in both events.",
-      "events_to_be_shown": ["Kata", "Kumite"],
-      "general_rules": [
-        "Each participant shall be allowed to show only one kata.",
-        "Matches will be conducted according to the rules and regulations set by the event organizers.",
-        "Follow the instructions of the referees and judges.",
-        "Once a point is scored or a foul is received, the play shall be paused to award the same.",
-        "Points will be awarded based on clean strikes, kicks, and effective techniques. More details are provided below.",
-        "Strikes below the belt or intentional excessive force are not allowed.",
-        "Avoid dangerous techniques that may cause injury to your opponent, such as joint locks."
-      ],
-      "basic_rules_for_kumite": [
-        "Time Duration: 2 minutes (per round)",
-        "The Weight Categories Are:",
-        "- Under 55kgs",
-        "- Over 55kgs",
-        "The tournament will be based on knockout basis.",
-        "Strikes (Punches and Kicks):",
-        "- Clean and controlled punches to the body: 1 point",
-        "- Clean and controlled kick to the back: 2 points",
-        "- Clean and controlled kick to the head: 3 points",
-        "- Strikes with excessive force or dangerous techniques (intentional or accidental): Warning, deduction of points, or disqualification, depending on the severity.",
-        "Techniques:",
-        "- Sweeps or takedowns resulting in the opponent falling to the mat followed by a punch: 3 points",
-        "- Semi-contact mode of Fighting.",
-        "Penalties:",
-        "- Minor infractions (e.g., stepping out of the ring, not following instructions): 3 Warnings and then disqualification.",
-        "- More serious infractions and severe infractions (e.g., excessive contact, intentional fouls, striking after a break command, dangerous techniques): 1 Warnings and then disqualification.",
-        "Scoring and Decision:",
-        "- The competitor with the highest number of points at the end of the match wins.",
-        "- If there is a tie in points, the player scoring the first point in the match will be declared winner."
-      ],
-      "teacher_in_charge": "MA’AM MANJU SINGH",
-      "contact_no": "9748958027"
-    },
-    {
-      "name": "BOSCO KINGSMAN",
-      "event_type": "Chess",
-      "club": "SCOUTS",
-      "classes": "9-12",
-      "participants": "3+1",
-      "rules": [
-        "The tournament will be played as per the half an hour rapid chess rules of F.I.D.E.",
-        "The tournament will be conducted by the arbiters. Their decision with regard to the interpretation of rules or any other technical matters will be final and binding.",
-        "The tournament will be held in five rounds.",
-        "The tournament committee will draw the fixtures.",
-        "There will be no separate groups for boys and girls.",
-        "Names to be submitted by order of the board.",
-        "Rating of all the players to be submitted."
-      ],
-      "teacher_in_charge": "SIR SUKAMAL DE",
-      "contact_no": "9051022377"
-    },
-    {
       "name": "BOSCO HARMONICA",
       "event": "Unconventional music",
+      "logo": "/9-12/Harmonica.webp",
       "club": "FRIENDS YOUTH GROUP",
       "classes": "9 to 12",
       "participants": 7,
@@ -968,9 +937,10 @@
       "contact_number": "6290667241"
     },
     {
-      "name": "BOSCO INSTANT INENSITY",
+      "name": "BOSCO INSTANT INTENSITY",
       "event": "Two minutes to fame",
       "club": "FRIENDS YOUTH GROUP",
+      "logo": "/9-12/Instant Intensity.webp",
       "classes": "9 To 12",
       "participants": 2,
       "time": "2 minutes",
@@ -989,6 +959,7 @@
       "name": "BOSCO PULL",
       "event": "Tug o’ war",
       "club": "YCS",
+      "logo": "/9-12/Pull.webp",
       "classes": "9-12",
       "participants": "16+4",
       "rules": [
@@ -1008,6 +979,7 @@
     {
       "name": "BOSCO SAMACHAR",
       "event": "News reporting",
+      "logo": "/9-12/Samachar.webp",
       "club": "YCS",
       "classes": "9-12",
       "participants": 2,
@@ -1027,6 +999,7 @@
     {
       "name": "BOSCO TALKING TITANS",
       "event": "Extempore",
+      "logo": "/9-12/BOSCO TALKING TITANS.webp",
       "club": "Media and Culture",
       "classes": "9-12",
       "participants": "1 from each school",
@@ -1054,8 +1027,9 @@
       "contact_number": "7278808338"
     },
     {
-      "name": "BOSCO QUIZOTOPIA",
+      "name": "BOSCO QUIZOTOPIA(9-12)",
       "event": "Quiz",
+      "logo": "/9-12/Quiz quest.webp",
       "club": "QUIZ",
       "classes": "9-12",
       "participants": "A team of 4 members",
@@ -1102,6 +1076,7 @@
     },
     {
       "name": "BOSCO LAY-UP SHOW",
+      "logo": "/9-12/dunk.webp",
       "event_type": "Basketball",
       "club": "NCC",
       "classes": "9-12 (Boys)",
@@ -1118,28 +1093,9 @@
       "contact_no": "9749197171"
     },
     {
-      "name": "BOSCO SPIKE SHOW DOWN",
-      "event_type": "Volleyball",
-      "club": "NCC",
-      "classes": "9 – 12 (Boys)",
-      "participants": "6 + 3(Reserve)",
-      "rules": [
-        "Each Game will be of 15 points.",
-        "Best of three for deciding the Winner.",
-        "General rules of volleyball will be followed.",
-        "A Libero may be allowed.",
-        "The Tournament Committee will draw the fixture.",
-        "This Tournament is only for Boys.",
-        "A Minimum of 4 teams must turn up for the event to begin.",
-        "Each team should have their School Team Jersey with the Schoolname printed on it.",
-        "Note: Others rules will be given on the spot."
-      ],
-      "teacher_in_charge": "SIR ARUP KUNDU",
-      "contact_no": "9749197171"
-    },
-    {
       "name": "Bosco Showdown at Dojo",
       "event_type": "Martial Arts",
+      "logo": "/9-12/Dojo.webp",
       "club": "LTS",
       "classes": "9-12",
       "time": "2 minutes per round",
@@ -1185,6 +1141,7 @@
     {
       "name": "BOSCO KINGSMAN",
       "event_type": "Chess",
+      "logo": "/9-12/Kingsman.webp",
       "club": "SCOUTS",
       "classes": "9-12",
       "participants": "3+1",
@@ -1203,6 +1160,7 @@
     {
       "name": "BOSCO SYMPHONY",
       "event_type": "Western Music",
+      "logo": "/9-12/BOSCO SYMPHONY.webp",
       "club": "MUSIC",
       "classes": "9 to 12",
       "participants": "8 to 10",
@@ -1230,6 +1188,7 @@
     {
       "name": "BOSCO SARGAM",
       "event_type": "Eastern Music",
+      "logo": "/9-12/Sargam.webp",
       "club": "MUSIC",
       "classes": "9 to 12",
       "participants": "6-7",
@@ -1254,6 +1213,7 @@
     {
       "name": "BOSCO FANTASY LEAGUE",
       "event_type": "Indoor Cricket",
+      "logo": "/9-12/fantasy league.webp",
       "club": "SPORTS",
       "classes": "9-12",
       "participants": "6+2 (Reserve)",
@@ -1269,6 +1229,7 @@
     {
       "name": "BOSCO FUTSAL",
       "event_type": "Football",
+      "logo": "/9-12/futsal.webp",
       "club": "SPORTS",
       "classes": "9-12",
       "participants": "5+3 (Reserve)",
@@ -1287,6 +1248,7 @@
     {
       "name": "BOSCO STEP HOOPER",
       "event_type": "Solo Dance",
+      "logo": "/9-12/Step-hooper.webp",
       "club": "DANCE",
       "classes": "9-12",
       "participants": "1",
@@ -1302,6 +1264,7 @@
     {
       "name": "BOSCO DIP-A-TOE",
       "event_type": "Western Dance",
+      "logo": "/6-8/BOSCO DIP-A-TOE.webp",
       "club": "DANCE",
       "classes": "9-12",
       "participants": "12+2",
@@ -1324,6 +1287,7 @@
     {
       "name": "BOSCO COMEDIANZA",
       "event_type": "Stand Up Comedy",
+      "logo": "/9-12/comedianza.webp",
       "club": "DRAMATIC",
       "classes": "9 to 12",
       "participants": "1+1 (reserve)",
@@ -1342,6 +1306,7 @@
     {
       "name": "BOSCO RATIONALE",
       "event_type": "Debate",
+      "logo": "/9-12/BOSCO RATIONALE.webp",
       "club": "DEBATE",
       "classes": "9-12",
       "participants": "1+1",
@@ -1363,6 +1328,7 @@
     {
       "name": "BOSCO JAM",
       "event_type": "Just a Minute",
+      "logo": "/9-12/BOSCO JAM.webp",
       "club": "NATURE",
       "classes": "9-12",
       "participants": "1",
@@ -1385,6 +1351,7 @@
     {
       "name": "BOSCO FOOTLOOSE",
       "event_type": "Street Dance",
+      "logo": "/9-12/Footloose.webp",
       "club": "NATURE",
       "classes": "9-12",
       "participants": "8-10",
@@ -1405,6 +1372,7 @@
     {
       "name": "BOSCO CARPE DIEM 'CAPTURE THE MOMENT'",
       "event_type": "Photography",
+      "logo": "/9-12/BOSCO CARPEDIEM.webp",
       "club": "SCIENCE",
       "classes": "9-12",
       "participants": "1",
@@ -1425,6 +1393,7 @@
       "name": "BOSCO TECH WARS",
       "event_type": "Coding",
       "club": "SPACE BYTE",
+      "logo": "/9-12/warz.webp",
       "classes": "9-12",
       "participants": "2",
       "time": "3 hours",
@@ -1447,6 +1416,7 @@
     {
       "name": "BOSCO RAPID FIRE",
       "event_type": "IT Quiz",
+      "logo": "/9-12/IT-Quiz.webp",
       "club": "SPACE BYTE",
       "classes": "9-12",
       "participants": "2",
@@ -1463,6 +1433,7 @@
     {
       "name": "BOSCO WEBPAGE DESIGN",
       "event_type": "Webpage Designing",
+      "logo": "/9-12/BOSCO METAVERSE.webp",
       "club": "SPACE BYTE",
       "classes": "9-12",
       "participants": "2",
@@ -1483,8 +1454,9 @@
       "contact_number": "9073167224"
     },
     {
-      "name": "BOSCO FINGER BILLIARDS",
+      "name": "BOSCO POCKET",
       "event_type": "Carrom",
+      "logo": "/9-12/BOSCO POCKET.webp",
       "club": "SCOUTS",
       "classes": "9-12",
       "participants": "2 (as a team)",
@@ -1502,6 +1474,7 @@
     {
       "name": "BOSCO DIGITAL CANVAS",
       "event_type": "Digital Art",
+      "logo": "/9-12/BOSCO DIGITAL CANVAS.webp",
       "club": "Bosco Boys",
       "classes": "9-12",
       "participants": "1",
@@ -1520,6 +1493,7 @@
     {
       "name": "BOSCO SLAMPO",
       "event_type": "Slam Poetry",
+      "logo": "/9-12/BOSCO SLAMPO.webp",
       "club": "LITERARY",
       "classes": "9 to 12",
       "participants": "1 or 2",
@@ -1539,6 +1513,60 @@
       ],
       "teacher_in_charge": "",
       "contact_number": ""
+    },
+    {
+      "name": "Bosco Rally",
+      "logo": "/9-12/Rally.webp",
+      "event": "Table Tennis",
+      "club": "SCOUTS",
+      "classes": "9 to 12",
+      "participants": "4+1(Reserve)",
+      "rules": [
+        "There will be separate groups for boys and girls. (If less than 4 teams, they will be merged together)",
+        "The tournament will be played in a league-cum-knockout basis.",
+        "The player opting for singles cannot play for doubles and vice-versa.",
+        "The result of the matches between two schools will be decided over the three sets (1 singles, 1 doubles, and second singles if required) of 11 points each.",
+        "The organizing committee will draw the fixture that will be displayed at the venue.",
+        "International rules and regulations adopted by T.T.F.I and B.T.T.A will be strictly adhered to."
+      ]
+    },
+    {
+      "name": "Bosco Valorant",
+      "event": "Valorant Gaming",
+
+      "logo": "/9-12/BOSCO VALORANT.webp",
+      "club": "SPACE BYTE",
+      "participants_per_team": "5 participants + 1 substitute (if necessary)",
+      "duration": "30-40 mins per match (on average) + 5 minutes",
+      "rules": [
+        "The matches will be held offline.",
+        "The participants must bring their own laptops.",
+        "There will be a 5-10 mins break between matches.",
+        "Participants may choose any agent that they wish.",
+        "Map veto will be done on the spot.",
+        "Maps will be selected from the current competitive map pool.",
+        "The tournament will be played in the custom game mode.",
+        "Each team must have a pre-decided team captain. Coaches and spectators are not allowed.",
+        "This is a knockout-style tournament. The winning team goes ahead in the brackets, and the losing team gets knocked out.",
+        "Classic overtime rules apply.",
+        "Participants need to bring their own peripherals (mouse and keyboards).",
+        "Insults and unfair or disrespectful behavior will not be tolerated and will be punished.",
+        "Vulgar, racist, or other offensive player names are forbidden."
+      ]
+    },
+    {
+      "name": "Reps Event",
+      "logo": "/9-12/REP'S EVENT.webp",
+      "event": "Treasure Hunt",
+      "description": "Make today a treasure hunt of delight. The time has come to jump over the secret mysteries of the world.",
+      "additional_info": "The school representatives will be tested upon their awareness of the events they are participating. The school reps will be provided with clues so as to reach the particular event and hunt for the treasure.",
+      "rules": [
+        "This event is exclusively only for the school Representatives.",
+        "Both the school representatives will be participating in a team.",
+        "The participants will be given clues at each stage leading to the final treasure.",
+        "Use of mobile phones or any other electronic devices will lead to immediate disqualification.",
+        "All other information will be disclosed on the day of the event."
+      ]
     }
   ]
 }

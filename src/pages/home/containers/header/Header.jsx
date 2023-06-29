@@ -16,13 +16,11 @@ const Header = () => {
                 <p>Don Bosco's Most Celebrated</p>
               </div>
               <h2>
-                With new events,<br/> <b className="highlighter">Boscotsav'<b className="specialhigh">23</b></b><br/> is Back.
+                With new events,<br/> <b className="highlighter">Boscotsav<b className="specialhigh">'23</b></b><br/> is Back.
               </h2>
             </div>
             <div className="bt_header-learnmore">
-              <div className="bu">
                 <Link to={`/about`}><button className="button">LEARN MORE</button></Link>
-              </div>
             </div>
         </div>
         <div className="balls"></div>

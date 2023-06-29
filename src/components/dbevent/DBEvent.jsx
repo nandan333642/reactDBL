@@ -8,11 +8,11 @@ import { PageComponent, Footer } from '../../components';
 const DBEvent = ({currentPage}) => {
   const { eventName } = useParams();
   const [event, setEvent] = useState([]);
-  const location = useLocation();
-  const navigate = useNavigate();
+  
   useEffect(() => {
     const selectedEvent = findEvent(eventName);
     setEvent(selectedEvent);
+    console.log(currentPage)
   }, [eventName]);
 
   const findEvent = (eventName) => {
@@ -29,13 +29,14 @@ const DBEvent = ({currentPage}) => {
     if (!event) {
       return <div>Loading...</div>;
     } else {
+      const { logo, ...eventData } = event;
       return (
         <div className="bt_dbevent-event">
           <div className="bt_dbevent-event-text">
-            <h2 className="bt_dbevent-text-title">{event.name}</h2>
+            <h2 className="bt_dbevent-text-title">{eventData.name}</h2>
 
             <div className="bt_dbevent-event-elements">
-              {Object.entries(event).map(([key, value], index) => {
+              {Object.entries(eventData).map(([key, value], index) => {
                 if (key === 'children') {
                   return (
                     <div key={index}>

@@ -17,12 +17,12 @@ const Events = () => {
   const [events, setEvents] = useState(jsonData.events);
   const [searchTerm, setSearchTerm] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
+  const [previousPage, setPreviousPage] = useState(1);
   const { eventName } = useParams();
   const navigate = useNavigate();
   const location = useLocation();
-
   const handleEventClick = (eventName) => {
-    const previousPage = currentPage; // Store the current page number
+    setPreviousPage(currentPage); // Store the current page number
     navigate(`/events/${eventName}`, { state: { previousPage } });
   };
 
@@ -35,7 +35,7 @@ const Events = () => {
       event.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
     setEvents(filteredEvents);
-    setCurrentPage(1);
+    setCurrentPage(previousPage);
   }, [searchTerm]);
 
   const renderEvents = () => {
@@ -48,7 +48,7 @@ const Events = () => {
 
       return eventsToDisplay.map((event) => (
         <Link to={`/events/${event.name}`} key={event.name} style={styles} onClick={() => handleEventClick(event.name)}>
-          <DbImageEvent name={event.name} />
+          <DbImageEvent name={event.name} logo={event.logo}/>
         </Link>
       ));
     }
@@ -67,6 +67,7 @@ const Events = () => {
   };
 
   useEffect(() => {
+    console.log(navigate);
     const previousPage = location.state?.previousPage || 1; // Retrieve the previous page number from location state
     setCurrentPage(previousPage);
   }, [location]);
