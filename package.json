@@ -1,6 +1,7 @@
 {
   "name": "boscotsav",
   "version": "0.1.0",
+  "homepage": "https://nandan333642.github.io/reactDBL/,
   "engines": {
     "node": "18.x"
   },
