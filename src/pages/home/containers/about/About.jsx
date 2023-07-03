@@ -2,7 +2,7 @@ import React, {StyleSheets} from 'react'
 import './about.css';
 import {Countdown} from '../../../../components';
 import {concert1, concert2, concert3} from '../../../../assets';
-import flexvid from '../../../../assets/flexvid.mp4';
+//import flexvid from '../../../../assets/flexvid.mp4';
 import ReactPlayer from 'react-player';
 
 const About = () => {
