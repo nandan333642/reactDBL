@@ -27,12 +27,14 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.1.1"
   },
-  "scripts": {
+ "scripts": {
     "start": "react-scripts start",
     "cleanBuild": "rimraf ./build/*",
-    "build": "npm run cleanBuild && set \"GENERATE_SOURCEMAP=false\" && react-scripts build ",
+    "build": "react-scripts build ",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
